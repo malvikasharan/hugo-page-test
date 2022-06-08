@@ -26,9 +26,22 @@ cascade:
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
+languages:
+  en:
+    baseURL: https://openphyto.netlify.app/
+    languageName: English
+    title: In English
+    weight: 2
+#   fr:
+#     baseURL: https://openphyto-fr.netlify.app/
+#     languageName: Français
+#     title: En Français
+#     weight: 1
+  es:
+    baseURL: https://openphyto-es.netlify.app/
+    languageName: Español
+    title: En Español
+    weight: 1
 
 ############################
 ## MODULES
