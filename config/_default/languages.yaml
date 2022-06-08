@@ -6,7 +6,24 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  title: International Committee on Open Phytolith Science
+  params:
+    description: Community building initiative and open science training for the Phytolith Community.
+# fr:
+#   languageCode: fr
+#   contentDir: content/fr
+#   title: Comité international sur la science ouverte dans le phytolithe
+#   params:
+#     description: Initiative de renforcement de la communauté et formation en science ouverte pour la communauté Phytolith.
+# es:
+#   languageCode: es
+#   contentDir: content/es
+#   title: Comité Internacional de Ciencia Abierta en Fitolitos
+#   params:
+#     description: Iniciativa de formación comunitaria y capacitación en ciencia abierta para la comunidad de fitolitos.
+
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -21,19 +38,4 @@ en:
 #        url: '#about'
 #        weight: 1
 
-# languages:
-#   en:
-#     baseURL: https://openphyto.netlify.app/
-#     languageName: English
-#     title: In English
-#     weight: 1
-#   fr:
-#     baseURL: https://openphyto-fr.netlify.app/
-#     languageName: Français
-#     title: En Français
-#     weight: 2
-#   es:
-#     baseURL: https://openphyto-es.netlify.app/
-#     languageName: Español
-#     title: En Español
-#     weight: 3
+
