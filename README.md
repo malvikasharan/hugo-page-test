@@ -1,4 +1,15 @@
-# About the website template
+# About this repo
+
+This repository contains website development file created for the **Community building and training initiative for the Phytolith Community**.
+
+The content exists in the `content` folder.
+There are three language folders containing files for website pages translated in English (en), French (fr) and Spanish (es).
+
+For landing page, please edit '[en|fr|es]/home/hero.md'.
+
+Please don't change the file name across the folders, see details for file naming for multlingual website here: https://www.regisphilibert.com/blog/2018/08/hugo-multilingual-part-1-managing-content-translation/.
+
+## About the website template
 
 [Hugo Online Course Theme](https://github.com/wowchemy/starter-hugo-online-course)
 

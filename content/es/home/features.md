@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Sobre
+subtitle: Conoce nuestro trabajo
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
