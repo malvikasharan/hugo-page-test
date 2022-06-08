@@ -6,7 +6,22 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  # contentDir: content/en
+  contentDir: content/en
+  title: International Committee on Open Phytolith Science
+  weight: 1
+  params:
+    description: Community building initiative and open science training for the Phytolith Community.
+fr:
+  languageCode: fr
+  contentDir: content/fr
+  params:
+    description: Initiative de renforcement de la communauté et formation en science ouverte pour la communauté Phytolith.
+es:
+  languageCode: es
+  weight: 3
+  contentDir: content/es
+  params:
+    description: Iniciativa de formación comunitaria y capacitación en ciencia abierta para la comunidad de fitolitos.
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
