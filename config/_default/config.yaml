@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Online Courses' # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 'International Committee on Open Phytolith Science' # Website name
+baseURL: 'https://openphyto.netlify.app/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -26,22 +26,6 @@ cascade:
 ############################
 
 defaultContentLanguage: en
-languages:
-  en:
-    baseURL: https://openphyto.netlify.app/
-    languageName: English
-    title: In English
-    weight: 2
-#   fr:
-#     baseURL: https://openphyto-fr.netlify.app/
-#     languageName: Français
-#     title: En Français
-#     weight: 1
-  es:
-    baseURL: https://openphyto-es.netlify.app/
-    languageName: Español
-    title: En Español
-    weight: 1
 
 ############################
 ## MODULES
