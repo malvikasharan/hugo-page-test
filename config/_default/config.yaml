@@ -38,14 +38,14 @@ languages:
 fr:
   languageCode: fr
   languageName: Français
-	weight: 2
+  weight: 2
   contentDir: content/fr
   title: Comité international sur la science ouverte dans le phytolithe
   description: Initiative de renforcement de la communauté et formation en science ouverte pour la communauté Phytolith.
 es:
   languageCode: es
   languageName: Spanish
-	weight: 3
+  weight: 3
   contentDir: content/es
   title: Comité Internacional de Ciencia Abierta en Fitolitos
   description: Iniciativa de formación comunitaria y capacitación en ciencia abierta para la comunidad de fitolitos.
