@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Initiative de renforcement de la communauté et de formation pour la communauté Phytolith
 hero_media: teacher.png
 design:
   background:
@@ -26,8 +26,6 @@ advanced:
 
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Introduce your courses here.
+Construire une vision partagée pour la recherche ouverte sur les phytolithes.
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
