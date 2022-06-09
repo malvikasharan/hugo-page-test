@@ -29,17 +29,17 @@ languages:
   en:
     contentDir: content/en
     languageName: English
-    title: International Committee on Open Phytolith Science
+    title: ICOPS
     weight: 1
   fr:
     contentDir: content/fr
     languageName: Français
-    title: Comité international sur la science ouverte dans le phytolithe
+    title: ICOPS
     weight: 2
   es:
     contentDir: content/es
     languageName: Español
-    title: Comité Internacional de Ciencia Abierta en Fitolitos
+    title: ICOPS
     weight: 3
 
 ############################
