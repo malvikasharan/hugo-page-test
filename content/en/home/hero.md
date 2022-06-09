@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Community building and training initiative for the Phytolith Community
+title: International Committee on Open Phytolith Science
 hero_media: teacher.png
 design:
   background:
@@ -26,6 +26,6 @@ advanced:
 
 <br>
 
-Building a shared vision for open phytolith research.
+Building a shared vision for open phytolith research through community building and training. 
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>

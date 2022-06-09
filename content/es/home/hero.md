@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Iniciativa de construcción comunitaria y capacitación para la comunidad Phytolith
+title: Comité Internacional de Ciencia Abierta en Fitolitos
 hero_media: teacher.png
 design:
   background:
@@ -26,6 +26,6 @@ advanced:
 
 <br>
 
-Construyendo una visión compartida para la investigación abierta de fitolitos.
+Construir una visión compartida para la investigación abierta en fitolitos a través de la formación y la formación de comunidades.
 
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
