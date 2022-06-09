@@ -7,6 +7,8 @@ There are three language folders containing files for website pages translated i
 
 For landing page, please edit '[en|fr|es]/home/hero.md'.
 
+For updating meta information such as Twitter and GitHub link appearing at the bottom of the page, please update `config/_default/params.yaml` file.
+
 Please don't change the file name across the folders, see details for file naming for multlingual website here: https://www.regisphilibert.com/blog/2018/08/hugo-multilingual-part-1-managing-content-translation/.
 
 ## About the website template
